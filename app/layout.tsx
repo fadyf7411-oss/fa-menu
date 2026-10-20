@@ -8,7 +8,7 @@ const lalezar = Lalezar({ weight: '400', subsets: ['arabic', 'latin'], variable:
 
 export const metadata: Metadata = {
   title: 'F&a menu',
-  description: 'منيو سندوتشات وكريب حادق وحلو وإضافات ومشروبات بالأسعار.',
+  description: 'Discover our delicious coffee menu with a variety of options for every taste.',
   generator: 'v0.app',
   icons: {
     icon: [

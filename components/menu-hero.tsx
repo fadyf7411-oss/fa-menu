@@ -7,7 +7,7 @@ export function MenuHero() {
       <div className="relative h-72 w-full md:h-96">
         <Image
           src="/images/hero.png"
-          alt="كريب وسندوتشات على ترابيزة خشب"
+          alt="A cup of coffee on a wooden table"
           fill
           priority
           sizes="100vw"
